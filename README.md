@@ -1,2 +1,3 @@
-# templates
-EdgerOS project templates
+# EdgerOS project templates
+
+**PR welcome**
