@@ -1,0 +1,9 @@
+{
+  "name": "tpl-simple",
+  "description": "Very basic and simple project template",
+  "type": "Base",
+  "repository": {
+    "github": "https://github.com/edgeros/tpl-simple.git",
+    "gitee": "https://gitee.com/edgeros/tpl-simple.git"
+  }
+}
