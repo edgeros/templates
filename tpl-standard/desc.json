@@ -1,9 +1,7 @@
 {
   "name": "tpl-standard",
-  "full_name":"fuwenhao/tpl-standard",
   "description": "Standard project with test case and standardjs code style",
   "type": "Base",
-  "official": true,
   "repository": {
     "github": "https://github.com/edgeros/tpl-standard.git",
     "gitee": "https://gitee.com/edgeros/tpl-standard.git"
