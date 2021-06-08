@@ -1,0 +1,2 @@
+# templates
+EdgerOS project templates
