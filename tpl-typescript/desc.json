@@ -1,6 +1,6 @@
 {
-  "name": "Standard",
-  "description": "Standard project with test case and standardjs code style",
+  "name": "TypeScript",
+  "description": "Minimal TypeScript project template",
   "type": "Base",
   "repository": {
     "github": "https://github.com/edgeros/tpl-typescript.git",
