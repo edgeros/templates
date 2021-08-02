@@ -1,0 +1,9 @@
+{
+  "name": "Standard",
+  "description": "Standard project with test case and standardjs code style",
+  "type": "Base",
+  "repository": {
+    "github": "https://github.com/edgeros/tpl-typescript.git",
+    "gitee": "https://gitee.com/edgeros/tpl-typescript.git"
+  }
+}
