@@ -1,6 +1,6 @@
 {
   "name": "Standard",
-  "description": "Standard project with test case and standardjs code style",
+  "description": "Standardjs code style and unit test",
   "type": "Base",
   "repository": {
     "github": "https://github.com/edgeros/tpl-standard.git",
