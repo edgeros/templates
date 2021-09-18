@@ -1,7 +1,7 @@
 {
   "name": "Standard",
   "description": "Standardjs code style and unit test",
-  "type": "Base",
+  "type": "3rd party",
   "repository": {
     "github": "https://github.com/edgeros/tpl-standard.git",
     "gitee": "https://gitee.com/edgeros/tpl-standard.git"
