@@ -1,7 +1,8 @@
 {
   "name": "Standard",
   "description": "Standardjs code style and unit test",
-  "type": "3rd party",
+  "description_zh-cn": "拥有 standardjs校验以及单元测试模块文件",
+  "type": "community",
   "repository": {
     "github": "https://github.com/edgeros/tpl-standard.git",
     "gitee": "https://gitee.com/edgeros/tpl-standard.git"
