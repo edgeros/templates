@@ -1,11 +1,19 @@
 [
   {
+    "type": "All",
+    "type_zh-cn": "全部",
+    "describe_en": "Basic project templates",
+    "describe_zh-cn": "简单的项目模板"
+  },
+  {
     "type": "Base",
+    "type_zh-cn": "基础",
     "describe_en": "Basic project templates",
     "describe_zh-cn": "简单的项目模板"
   },
   {
     "type": "community",
+    "type_zh-cn": "社区",
     "describe_en": "Templates provided by third-party developers",
     "describe_zh-cn": "第三方开发者所提供的模板"
   }
