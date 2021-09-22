@@ -1,11 +1,5 @@
 [
   {
-    "type": "All",
-    "label_zh-cn": "全部",
-    "describe_en": "Basic project templates",
-    "describe_zh-cn": "简单的项目模板"
-  },
-  {
     "type": "Base",
     "label_zh-cn": "基础",
     "describe_en": "Basic project templates",
