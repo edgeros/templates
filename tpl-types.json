@@ -3,12 +3,12 @@
     "type": "Base",
     "label_zh-cn": "基础",
     "describe_en": "Basic project templates",
-    "describe_zh-cn": "简单的项目模板"
+    "describe_zh-cn": "比较基础应用模板"
   },
   {
     "type": "community",
     "label_zh-cn": "社区",
-    "describe_en": "Templates provided by third-party developers",
-    "describe_zh-cn": "第三方开发者所提供的模板"
+    "describe_en": "Application templates provided by EdgerOS community developers",
+    "describe_zh-cn": "由 EdgerOS 社区开发者所提供的应用模板"
   }
 ]
