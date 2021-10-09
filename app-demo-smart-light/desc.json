@@ -3,6 +3,7 @@
   "description": "The EdgerOS App that controls xiaomi's Smart Lamp (ZigBee) device",
   "description_zh-cn": "控制小米智能灯（ZigBee版本）设备的爱智 App",
   "type": "Demo",
+  "root": "/light",
   "repository": {
     "github": "https://github.com/edgeros/app-demo-smart-light.git",
     "gitee": "https://gitee.com/edgeros/app-demo-smart-light.git"
