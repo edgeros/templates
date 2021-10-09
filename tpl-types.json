@@ -10,5 +10,11 @@
     "label_zh-cn": "社区",
     "describe_en": "Application templates provided by EdgerOS community developers",
     "describe_zh-cn": "由 EdgerOS 社区开发者所提供的应用模板"
+  },
+  {
+    "type": "Demo",
+    "label_zh-cn": "示范",
+    "describe_en": "An open source application provided by EdgerOS community developers",
+    "describe_zh-cn": "由 EdgerOS 社区开发者所提供的开源应用"
   }
 ]
