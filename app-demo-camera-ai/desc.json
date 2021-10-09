@@ -1,0 +1,11 @@
+{
+  "name": "CameraAI",
+  "description": "Basic streaming media camera monitoring Edgeros app",
+  "description_zh-cn": "带人脸识别功能的流媒体摄像头监控爱智应用",
+  "type": "Demo",
+  "root": "/camera2",
+  "repository": {
+    "github": "https://github.com/edgeros/app-demo-camera-ai.git",
+    "gitee": "https://gitee.com/edgeros/app-demo-camera-ai.git"
+  }
+}

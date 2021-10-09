@@ -1,0 +1,11 @@
+{
+  "name": "IoT PI",
+  "description": "A smart app that controls IoT Pi",
+  "description_zh-cn": "一个控制 IoT Pi 的爱智应用",
+  "type": "Demo",
+  "root": "/iotpi",
+  "repository": {
+    "github": "https://github.com/edgeros/app-demo-iotpi.git",
+    "gitee": "https://gitee.com/edgeros/app-demo-iotpi.git"
+  }
+}

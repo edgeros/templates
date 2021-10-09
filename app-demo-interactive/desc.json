@@ -1,0 +1,11 @@
+{
+  "name": "Interactive",
+  "description": "EedgerOS supports a variety of examples of front - and back-end interaction technologies to use",
+  "description_zh-cn": "EedgerOS 支持多种前后端交互技术的示例爱智应用",
+  "type": "Demo",
+  "root": "/interactive",
+  "repository": {
+    "github": "https://github.com/edgeros/app-demo-interactive.git",
+    "gitee": "https://gitee.com/edgeros/app-demo-interactive.git"
+  }
+}

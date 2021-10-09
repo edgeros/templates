@@ -1,0 +1,11 @@
+{
+  "name": "CameraBase",
+  "description": "Basic streaming media camera monitoring Edgeros app",
+  "description_zh-cn": "基础的流媒体摄像头监控爱智应用",
+  "type": "Demo",
+  "root": "/camera1",
+  "repository": {
+    "github": "https://github.com/edgeros/app-demo-camera-base.git",
+    "gitee": "https://gitee.com/edgeros/app-demo-camera-base.git"
+  }
+}
