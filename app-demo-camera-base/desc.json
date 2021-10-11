@@ -1,7 +1,7 @@
 {
   "name": "CameraBase",
-  "description": "Basic streaming media camera monitoring Edgeros app",
-  "description_zh-cn": "基础的流媒体摄像头监控爱智应用",
+  "description": "Basic streaming media camera monitoring EdgerOS APP",
+  "description_zh-cn": "基础的流媒体摄像头监控 EdgerOS APP",
   "type": "Demo",
   "root": "/camera1",
   "repository": {

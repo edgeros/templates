@@ -1,7 +1,7 @@
 {
   "name": "CameraAI",
-  "description": "Basic streaming media camera monitoring Edgeros app",
-  "description_zh-cn": "带人脸识别功能的流媒体摄像头监控爱智应用",
+  "description": "Streaming cameras with facial recognition monitor the EdgerOS APP",
+  "description_zh-cn": "带人脸识别功能的流媒体摄像头监控 EdgerOS APP",
   "type": "Demo",
   "root": "/camera2",
   "repository": {

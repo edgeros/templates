@@ -1,7 +1,7 @@
 {
-  "name": "IoT PI",
-  "description": "A smart app that controls IoT Pi",
-  "description_zh-cn": "一个控制 IoT Pi 的爱智应用",
+  "name": "IoT Pi",
+  "description": "A smart EdgerOS APP that controls IoT Pi",
+  "description_zh-cn": "一个控制 IoT Pi 的 EdgerOS APP",
   "type": "Demo",
   "root": "/iotpi",
   "repository": {

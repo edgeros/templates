@@ -1,7 +1,7 @@
 {
   "name": "SmartPlug",
-  "description": "This App is used for switch control of intelligent socket",
-  "description_zh-cn": "此 App 用于对智能插座的开关控制",
+  "description": "EdgerOS APP controls the switch control of the smart socket",
+  "description_zh-cn": "控制智能插座的开关控制的 EdgerOS APP",
   "type": "Demo",
   "root": "/plug",
   "repository": {
