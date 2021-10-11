@@ -2,7 +2,7 @@
   "name": "TypeScript",
   "description": "Minimal TypeScript project template",
   "description_zh-cn": "使用 TypeScript 来开发 EdgerOS APP",
-  "type": "Base",
+  "type": "base",
   "repository": {
     "github": "https://github.com/edgeros/tpl-typescript.git",
     "gitee": "https://gitee.com/edgeros/tpl-typescript.git"

@@ -2,7 +2,7 @@
   "name": "Interactive",
   "description": "EdgerOS supports a variety of examples of front - and back-end interaction technologies to use",
   "description_zh-cn": "EdgerOS 支持多种前后端交互技术的示例 EdgerOS APP",
-  "type": "Demo",
+  "type": "demo",
   "root": "/interactive",
   "repository": {
     "github": "https://github.com/edgeros/app-demo-interactive.git",

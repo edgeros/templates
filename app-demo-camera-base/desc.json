@@ -2,7 +2,7 @@
   "name": "CameraBase",
   "description": "Basic streaming media camera monitoring EdgerOS APP",
   "description_zh-cn": "基础的流媒体摄像头监控 EdgerOS APP",
-  "type": "Demo",
+  "type": "demo",
   "root": "/camera1",
   "repository": {
     "github": "https://github.com/edgeros/app-demo-camera-base.git",
