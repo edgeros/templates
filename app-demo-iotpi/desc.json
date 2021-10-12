@@ -1,6 +1,6 @@
 {
   "name": "IoT Pi",
-  "description": "A smart EdgerOS APP that controls IoT Pi",
+  "description": "IoT Pi controlling app",
   "description_zh-cn": "一个控制 IoT Pi 的 EdgerOS APP",
   "type": "demo",
   "root": "/iotpi",

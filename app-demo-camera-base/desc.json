@@ -1,6 +1,6 @@
 {
   "name": "CameraBase",
-  "description": "Basic streaming media camera monitoring EdgerOS APP",
+  "description": "Basic streaming media camera monitoring app",
   "description_zh-cn": "基础的流媒体摄像头监控 EdgerOS APP",
   "type": "demo",
   "root": "/camera1",

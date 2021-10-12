@@ -1,6 +1,6 @@
 {
   "name": "SmartLight",
-  "description": "The EdgerOS APP that controls xiaomi's Smart Lamp (ZigBee) device",
+  "description": "Xiaomi Smart Lamp (ZigBee) device controlling app",
   "description_zh-cn": "控制小米智能灯（ZigBee版本）设备的 EdgerOS APP",
   "type": "demo",
   "root": "/light",

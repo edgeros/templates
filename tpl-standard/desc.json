@@ -1,7 +1,7 @@
 {
-  "name": "Standard",
-  "description": "Standard JS code style and unit test",
-  "description_zh-cn": "在基础的应用模板之上增加了 ESlint, Standard 等代码风格规范模块，并且增加了单元测试文件",
+  "name": "StandardJS",
+  "description": "Template with Standard JS code style and unit test",
+  "description_zh-cn": "使用 StandardJS 代码规范并加入了单元测试的项目模板",
   "type": "community",
   "repository": {
     "github": "https://github.com/edgeros/tpl-standard.git",

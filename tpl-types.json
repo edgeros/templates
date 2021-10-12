@@ -3,21 +3,21 @@
     "type": "base",
     "label": "Base",
     "label_zh-cn": "基础",
-    "description": "Basic project templates",
-    "description_zh-cn": "比较基础应用模板"
+    "description": "Basic app templates",
+    "description_zh-cn": "基础应用模板"
   },
   {
     "type": "demo",
     "label": "Demo",
-    "label_zh-cn": "示范",
-    "description": "An open source application provided by EdgerOS community developers",
-    "description_zh-cn": "由 EdgerOS 社区开发者所提供的开源应用"
+    "label_zh-cn": "示例",
+    "description": "Open source demo applications from EdgerOS team",
+    "description_zh-cn": "由 EdgerOS 团队提供的 Demo 应用"
   },
   {
     "type": "community",
     "label": "Community",
-    "label_zh-cn": "社区",
-    "description": "Application templates provided by EdgerOS community developers",
-    "description_zh-cn": "由 EdgerOS 社区开发者所提供的应用模板"
+    "label_zh-cn": "社区模板",
+    "description": "Application templates from EdgerOS community",
+    "description_zh-cn": "由 EdgerOS 社区开发者提供的应用模板"
   }
 ]

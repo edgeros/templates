@@ -1,7 +1,7 @@
 {
   "name": "FaceLock",
-  "description": "Face unlock smart door lock EdgerOS APP",
-  "description_zh-cn": "人脸解锁的智能门锁 EdgerOS APP",
+  "description": "Facial recognition smart door lock EdgerOS APP",
+  "description_zh-cn": "人脸识别的智能门锁 EdgerOS APP",
   "type": "demo",
   "root": "/facelock",
   "repository": {
