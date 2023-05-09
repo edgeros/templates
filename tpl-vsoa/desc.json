@@ -1,0 +1,10 @@
+{
+  "name": "VSOA",
+  "description": "Simple VSOA Basic Function Implementation Project",
+  "description_zh-cn": "简单 VSOA 基础功能实现项目",
+  "type": "base",
+  "repository": {
+    "github": "https://github.com/edgeros/tpl-vsoa.git",
+    "gitee": "https://gitee.com/edgeros/tpl-vsoa.git"
+  }
+}
