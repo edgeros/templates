@@ -1,7 +1,7 @@
 {
   "name": "VSOA",
-  "description": "Simple VSOA Basic Function Implementation Project",
-  "description_zh-cn": "简单 VSOA 基础功能实现项目",
+  "description": "This demo app starts a VSOA Server internally, and connect to itsef via a new VSOA client.User may send RPC requests and subscribe URL messages.",
+  "description_zh-cn": "该应用示例将启动一个 VSOA 服务器并发起 VSOA 客户端连接本服务器。用户可以通过应用界面发起 RPC 请求或者 URL 消息订阅。",
   "type": "base",
   "repository": {
     "github": "https://github.com/edgeros/tpl-vsoa.git",
